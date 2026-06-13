@@ -1,1 +1,0 @@
-Sol. 1D Nodes- Merged with each other, check the Dependency using the element quality option and resolve it.
